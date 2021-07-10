@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1, Canal 2 Televicentro
+https://cootv.cootel.com.ni/streams/d/SSLCH02-HD-YON/playlist.m3u8
+#EXTINF:-2, Canal 4 Nicaragua
+https://cootv.cootel.com.ni/streams/d/SSLCH04-HD-XTV/playlist.m3u8
+#EXTINF:-3, Canal 6 Nicaragua
+https://cootv.cootel.com.ni/streams/d/SSLCH06-HD-RNJ/playlist.m3u8
+#EXTINF:-4, Canal TN8
+https://cootv.cootel.com.ni/streams/d/SSLCH08-HD-MCD/playlist.m3u8
+#EXTINF:-5, Canal 9 Nicaragua
+https://cootv.cootel.com.ni/streams/d/SSLCH09-HD-CVS/playlist.m3u8
+#EXTINF:-6, Canal 10 Nicaragua
+https://cootv.cootel.com.ni/streams/d/SSLCH10-HD-NCO/playlist.m3u8
+#EXTINF:-7, Canal 11 TV Red
+https://cootv.cootel.com.ni/streams/d/SSLCH11-HD-GIX/playlist.m3u8
+#EXTINF:-8, Canal 12 Nicavision
+https://cootv.cootel.com.ni/streams/d/SSLCH12-HD-EYH/playlist.m3u8
+#EXTINF:-9, Canal 13 Viva Nicaragua
+https://cootv.cootel.com.ni/streams/d/SSLCH13-HD-OWN/playlist.m3u8
+#EXTINF:-10, Canal 15
+http://138.117.4.70:8079/streams/d/CH-15/playlist.m3u8
+#EXTINF:-11, Canal 22 Difuso
+https://cootv.cootel.com.ni/streams/d/SSLCH22-HD-VWT/playlist.m3u8
+#EXTINF:-12, Canal 23 CDNN
+https://cootv.cootel.com.ni/streams/d/SSLCH23-HD-HOV/playlist.m3u8
+#EXTINF:-13, Canal 39 JBN
+https://cootv.cootel.com.ni/streams/d/SSLCH39-HD-JXF/playlist.m3u8
+#EXTINF:-14, Canal 49 Pixel Channel
+https://edge1o.live.opencaster.com/caster/dsHpssoaCzoa.m3u8
+#EXTINF:-IPTV Nicaragua
